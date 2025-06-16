@@ -8,6 +8,6 @@ This was a project I did for my Econometrics class during my undergraduate studi
 
 I found this project online and did it to learn more about neural networks. It was really fun and educational and I documented some of my main learning points throughout the code to refer back to when needed. My findings/inferences are documented throughout the code.
 
-## [Project 3: Analyzing Real Estate Prices from Indian Cities](https://github.com/benboda/Real_Estate_Price_Prediction_Project.git)
+## [Project 3: Analyzing Real Estate Prices](https://github.com/benboda/Real_Estate_Price_Prediction_Project.git)
 
 I did this project to further my comfort level with EDA as well as running a linear regression machine learning model and comparing it to other possible models for their accuracy.
